@@ -1,0 +1,15 @@
+table {
+    border-color: black;
+    border-radius: 8px;
+    background: tan;
+}
+
+#libraryTable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#libraryTable th, #libraryTable td {
+    border: 1px solid black;
+    padding: 8px;
+}
